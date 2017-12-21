@@ -16,7 +16,7 @@ h2 {
   color: white;
 }
 
-h3 {
+p {
   font-size: 21px;
   color: gray;
   font-weight: normal;
@@ -28,6 +28,5 @@ h3 {
 }
 
 .copyright {
-  color: gray;
   text-align: right;
 }
