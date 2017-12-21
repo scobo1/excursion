@@ -22,11 +22,13 @@ p {
   font-weight: normal;
 }
 
+/* Download links */
 .download {
   color: aquamarine;
   font-size: 16px;
 }
 
+/* Footer */
 .copyright {
   text-align: right;
 }
